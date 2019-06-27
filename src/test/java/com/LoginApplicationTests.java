@@ -15,12 +15,8 @@ public class LoginApplicationTests {
 
   @Test
   public static void main(String[] args) {
-    int min=10;
-    int max=11;
-    int field1=10;
-    int field2=11;
-    int keyword1=12;
-    int keyword2=13;
-    System.out.println("+"+field1+":"+keyword1+" "+"-"+field2+":"+keyword2);
+   int  s1=200;
+   int  s2=43390;
+    System.out.println("item_price:["+s1+  " TO " +s2+"]");
   }
 }
